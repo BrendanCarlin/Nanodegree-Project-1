@@ -1,0 +1,16 @@
+References:
+
+I did not use many references for this specific project
+other than googling a few things like "how to increase
+line space in p elements", for example.
+
+Mainly the sites I referenced were W3schools and
+the css documentation on Mozilla when performing
+the aforementioned google searches.
+
+UPDATE:
+
+I used blog posts on stackoverflow to determine
+why my HTML was not validating.
+
+source http://stackoverflow.com/questions/16123945/stray-start-tag-html-in-validator
